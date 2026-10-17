@@ -6,7 +6,7 @@ workflows:
     environment:
       flutter: stable
       ios_signing:
-        bundle_identifier: com.splitzo.splitzocom
+        bundle_identifier: com.splitzo.splitzocomcom
         provisioning_profiles:
           - provisioning_Splitzo
         certificates:
