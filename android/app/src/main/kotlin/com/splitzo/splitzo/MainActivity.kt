@@ -1,4 +1,4 @@
-package com.splitzo.splitzocomcom
+package com.splitzo.splitzocom
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.splitzo.splitzocomcom"
+    namespace = "com.splitzo.splitzocom"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "30.0.16248370"
 
@@ -16,7 +16,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.splitzo.splitzocomcom"
+        applicationId = "com.splitzo.splitzocom"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
